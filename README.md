@@ -1,0 +1,2 @@
+# typescript
+Básico sobre TypeScript
