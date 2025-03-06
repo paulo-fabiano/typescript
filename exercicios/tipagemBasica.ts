@@ -3,8 +3,10 @@
     Em seguida, faça uma função que receba essas duas variáveis e retorne uma mensagem formatada.
 */
 
-const nome: string = 'Paulo Fabiano';
+var nome : string = 'Paulo Fabiano';
 const idade: number = 25;
+
+nome = "";
 
 function imprimaNomeIdade(nome: string, idade: number) {
     console.log(`Nome: ${nome}, e idade: ${idade}`);
